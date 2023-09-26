@@ -3,16 +3,16 @@
 </div>
 
 <div  align="center" id="badges">
-  <a href="https://www.linkedin.com/in/mahmoud-jebreel/">
+  <a href="https://www.linkedin.com/in/mohammedinjjar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://wa.link/d2qp55">
+  <a href="https://wa.link/xsa9bu">
     <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
-  <a href="https://twitter.com/Mahmoudjebreel5">
+  <a href="https://twitter.com/Mohamme52362897">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <a href="https://www.facebook.com/Mahmoud.N.Jebreel">
+    <a href="https://www.facebook.com/profile.php?id=100006359265107">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
