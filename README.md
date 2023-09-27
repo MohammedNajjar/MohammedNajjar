@@ -58,4 +58,4 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MohammedNajjar&theme=solarized-light&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedNajjar&olarized-light&hide_border=true](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedNajjar&theme=solarized-light&hide_border=true](https://github.com/anuraghazra/github-readme-stats)
