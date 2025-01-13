@@ -1,6 +1,6 @@
 # Hey there 👋 👋
 
-![Banner](https://via.placeholder.com/900x300?text=Welcome+to+My+Profile)
+![Banner](https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/assets/banner.png)
 
 ---
 
