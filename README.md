@@ -1,51 +1,81 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
-</div>
+# Hey there 👋 👋
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/mohammedinjjar/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://wa.link/xsa9bu">
-    <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
-  </a>
-</div>
-
-<h1 align="center">
-  Hey there 👋
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+![Banner](https://via.placeholder.com/900x300?text=Welcome+to+My+Profile)
 
 ---
 
-### 🚀 About Me:
-I am a **Flutter Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from **Palestine - Gaza**.
+## 🚀 About Me:
 
-- 🔭 Working as a **Software Engineer** for building mobile apps.
+I am a **Flutter Developer** 🐦 from **Palestine - Gaza**.
+
+- 🌟 Working as a **Software Engineer** for building mobile apps.
 - 🌱 Always learning new technologies like Firebase and advanced Flutter tools.
 - ⚡ Solving problems on **GeeksforGeeks** and exploring open-source projects.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mohammed-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedinjjar/)
+- 🌍 Passionate about contributing to the developer community.
+
+📫 **How to reach me:**
+
+- [LinkedIn](https://linkedin.com)  
+- [WhatsApp](https://wa.me/1234567890)
 
 ---
 
-### 🛠️ Skills:
-[![My Skills](https://skillicons.dev/icons?i=flutter,java,react,html,css,firebase,git,vscode)](https://skillicons.dev)
+## 🛠️ Skills:
+
+| **Skill**              | **Proficiency** |
+|------------------------|-----------------|
+| Flutter 🐦            | ██████████ 100% |
+| Dart                  | █████████ 90%   |
+| Firebase 🔥           | ████████ 80%    |
+| Java ☕               | ██████ 60%      |
+| React ⚛️             | █████ 50%       |
+| HTML/CSS 🌐          | ███ 30%         |
 
 ---
 
-### 🚀 Featured Projects:
-- [**My Portfolio App**](https://github.com/MohammedNajjar/portfolio-app): Flutter app showcasing my portfolio.
-- [**E-commerce App**](https://github.com/MohammedNajjar/e-commerce): A fully-functional e-commerce app built using Flutter.
+## 🌟 Featured Projects:
+
+### [My Portfolio App](https://github.com/YourPortfolioApp)
+> A Flutter app showcasing my portfolio.
+
+![Portfolio App](https://via.placeholder.com/400x200?text=Portfolio+App+Preview)
+
+### [E-commerce App](https://github.com/YourECommerceApp)
+> A fully-functional e-commerce app built using Flutter.
+
+![E-commerce App](https://via.placeholder.com/400x200?text=E-commerce+App+Preview)
 
 ---
 
-### 📊 My Stats:
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MohammedNajjar&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedNajjar&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
+## 📜 Certifications:
+
+- 🎓 **Flutter & Dart - The Complete Guide** by Udemy
+- 🎓 **Advanced Firebase with Flutter** by Coursera
+- 🎓 **Java Programming** by CodeAcademy
 
 ---
 
-### 🌟 Quote:
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 📊 My Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
+---
+
+## ✨ Quote:
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+## 🔗 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/1234567890)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+
+---
+
+> **Note:** Replace placeholder links and text with your real data!
