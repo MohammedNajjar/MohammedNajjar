@@ -1,89 +1,63 @@
-# Hey there 👋 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-![Banner](https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/assets/banner.png)
+<h1 align="center">Hi, I'm Mohammed Injjar 👋</h1>
 
----
-
-## 🚀 About Me:
-
-I am a **Flutter Developer** 🐦 from **Palestine - Gaza**.
-
-- 💼 Working as a **Software Engineer** for building cutting-edge mobile applications.
-- 🌱 Always exploring **Firebase**, **state management**, and advanced **Flutter** concepts.
-- ✍️ Writing blogs and tutorials to share knowledge with the community.
-- 🌍 Passionate about open-source projects and contributing to the developer community.
-
-📫 **How to reach me:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/1234567890)
-
----
-
-## 🛠️ Tech Stack:
-
-### **Languages:**
-- Dart 🐦, Java ☕, JavaScript ⚡, Python 🐍
-
-### **Frameworks & Tools:**
-- Flutter 💙, Firebase 🔥, React ⚛️, Git 🖤, VS Code 🔵
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohammedinjjar/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://wa.link/xsa9bu">
+    <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
+  </a>
+  <a href="https://twitter.com/Mohamme52362897">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100006359265107">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+</div>
 
 ---
 
-## 🌟 Featured Projects:
-
-### [🌟 My Portfolio App](https://github.com/YourPortfolioApp)
-> **Description:**  
-A Flutter-based mobile app to showcase personal projects, resume, and contact details.
-
-![Portfolio App](https://via.placeholder.com/600x300?text=Portfolio+App+Preview)
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ---
 
-### [🛒 E-commerce App](https://github.com/YourECommerceApp)
-> **Description:**  
-A fully functional e-commerce mobile application built using Flutter.
+## 👩‍💻 About Me
+I am a **Flutter Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from **Palestine - Gaza**.
 
-![E-commerce App](https://via.placeholder.com/600x300?text=E-commerce+App+Preview)
-
----
-
-## 📊 My Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+- 🔭 **Currently working as:** Software Engineer & Flutter Developer, specializing in building mobile applications.  
+- 🌱 **Passionate about:** Constantly improving and learning in the field of software development.  
+- ⚡ **In my free time:** Solving problems on GeeksforGeeks and reading tech articles.  
+- 📫 **How to reach me:** [![LinkedIn Badge](https://img.shields.io/badge/-Mohammed-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedinjjar/)
 
 ---
 
-## 🏆 Certifications:
-
-- **Flutter & Dart**: Complete Guide by Udemy  
-- **Advanced Firebase**: Coursera  
-- **Java Programming**: CodeAcademy  
-
----
-
-## ✨ Quote:
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
----
-
-## 🔗 Let's Connect:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
+## 🛠️ Languages and Tools
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="50" height="50"/>
+</div>
 
 ---
 
-### **ملاحظات إضافية:**
-1. ارفع صور المشاريع (Screenshots) لتظهر بشكل جذاب في قسم المشاريع.
-2. ضع روابط مباشرة للشهادات إن أمكن.
-3. استخدم ألوان **داكنة (Dark)** تتناسق مع الخلفية الداكنة في GitHub.
-
----
-
-جرب هذا التنسيق، وأخبرني إذا كنت تحتاج أي إضافات أخرى! 😊
+## 🔥 My Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MohammedNajjar&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedNajjar&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</div>
