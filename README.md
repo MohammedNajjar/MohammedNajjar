@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center" style="background-color: #f0f4f8; padding: 20px; border-radius: 10px;">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Profile Icon"/>
 </div>
 
 <div align="center" id="badges">
@@ -17,29 +17,29 @@
   </a>
 </div>
 
-<h1 align="center">
+<h1 align="center" style="color: #4a90e2;">
   Hey there 👋
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<div align="center" style="background-color: #ffffff; padding: 20px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Coding GIF"/>
 </div>
 
 ---
 
-### 👩‍💻 About Me :
+### 👨‍💻 About Me :
 I am a **Flutter Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from **Palestine - Gaza**.
 
-- 🔭 I’m working as a Software Engineer and Flutter developer for building mobile applications.
-- 🌱 I’m a fast learner and constantly improving in the field of software development.
+- 🔭 Working as a Software Engineer and Flutter Developer to build mobile apps.
+- 🌱 Continuously learning and improving in the field of software development.
 - ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-Mohammed-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedinjjar/)
 
 ---
 
 ### 🛠️ Languages and Tools :
-<div align="center">
+<div align="center" style="background-color: #ffffff; padding: 20px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -57,7 +57,7 @@ I am a **Flutter Developer** <img src="https://media.giphy.com/media/WUlplcMpOCE
 ---
 
 ### 🔥 My Stats :
-<div align="center">
+<div align="center" style="background-color: #ffffff; padding: 20px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MohammedNajjar&theme=solarized-light&hide_border=true" alt="GitHub Streak"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedNajjar&theme=solarized-light&hide_border=true" alt="Top Languages"/>
