@@ -2,7 +2,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
 </div>
 
-<h1 align="center">Hi, I'm Mohammed Injjar 👋</h1>
+<h1 align="center">Welcome to My Coding Space 🌟</h1>
+<h2 align="center">Hi, I'm Mohammed Injjar 👋</h2>
+<p align="center">
+  🚀 **Flutter Enthusiast** | 💡 **Innovator in Mobile Solutions** | 🌍 **Building for the Future**
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammedinjjar/">
@@ -34,7 +38,20 @@ I am a passionate **Flutter Developer** 💙, dedicated to crafting seamless and
 - 🔭 **Current Focus:** Developing robust mobile apps using Flutter for businesses and individuals.  
 - 🌱 **Lifelong Learner:** Always exploring new technologies, frameworks, and best practices.  
 - 💡 **Tech Enthusiast:** Enjoy solving coding challenges and contributing to open-source projects.  
-- 📫 **Let’s Connect:** I love collaborating with others to create impactful solutions. Reach out on [LinkedIn](https://www.linkedin.com/in/mohammedinjjar/).
+- 🤝 **Let’s Connect:** I love collaborating with others to create impactful solutions. Reach out on [LinkedIn](https://www.linkedin.com/in/mohammedinjjar/).
+
+---
+
+## 📂 Featured Projects  
+
+### [📝 TaskManager App](https://github.com/MohammedNajjar/TaskManager-App)  
+> A robust task management app built with Flutter and Firebase to help users organize and prioritize their tasks seamlessly.
+
+### [🌐 Portfolio Website](https://github.com/MohammedNajjar/Portfolio)  
+> A responsive personal portfolio website showcasing my skills, projects, and achievements. Built using React and TailwindCSS.
+
+### [📱 ChatApp](https://github.com/MohammedNajjar/ChatApp)  
+> A real-time chat application with Flutter and Firebase, featuring secure authentication and an intuitive UI.
 
 ---
 
@@ -68,6 +85,11 @@ I am a passionate **Flutter Developer** 💙, dedicated to crafting seamless and
 
 ## 🌟 Let’s Collaborate  
 
-I’m always open to connecting with fellow developers, startups, and companies to create innovative projects. Whether you need help with a **Flutter application** or want to brainstorm tech solutions, feel free to reach out!
+I’m always excited to work with creative minds and ambitious teams. Whether it’s building **Flutter applications**, contributing to open-source projects, or brainstorming new ideas, feel free to connect with me:
 
-### 📧 [mohammedinjjar@example.com](mailto:mohammedinjjar@example.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/mohammedinjjar/)
+📧 **[mohammedinjjar@example.com](mailto:mohammedinjar1@gmail.com)**  
+🌐 **[LinkedIn](https://www.linkedin.com/in/mohammedinjjar/)**  
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=MohammedNajjar&style=flat-square&color=blue)
