@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
 </div>
 
-<h1 align="center">Welcome to My Coding Space 🌟</h1>
+<h1 align="center">Crafting Mobile Experiences | Welcome to My World of Code! 🌟</h1>
 <h2 align="center">Hi, I'm Mohammed Injjar 👋</h2>
 <p align="center">
   🚀 **Flutter Enthusiast** | 💡 **Innovator in Mobile Solutions** | 🌍 **Building for the Future**
@@ -44,31 +44,41 @@ I am a passionate **Flutter Developer** 💙, dedicated to crafting seamless and
 
 ## 📂 Featured Projects  
 
-### [📝 TaskManager App](https://github.com/MohammedNajjar/TaskManager-App)  
-> A robust task management app built with Flutter and Firebase to help users organize and prioritize their tasks seamlessly.
+### 📝 [TaskManager App](https://github.com/MohammedNajjar/TaskManager-App)  
+> **Tech Stack:** Flutter, Firebase  
+A robust task management app to organize and prioritize tasks seamlessly.
 
-### [🌐 Portfolio Website](https://github.com/MohammedNajjar/Portfolio)  
-> A responsive personal portfolio website showcasing my skills, projects, and achievements. Built using React and TailwindCSS.
+### 🌐 [Portfolio Website](https://github.com/MohammedNajjar/Portfolio)  
+> **Tech Stack:** React, TailwindCSS  
+A responsive personal portfolio showcasing skills, projects, and achievements.
 
-### [📱 ChatApp](https://github.com/MohammedNajjar/ChatApp)  
-> A real-time chat application with Flutter and Firebase, featuring secure authentication and an intuitive UI.
+### 📱 [ChatApp](https://github.com/MohammedNajjar/ChatApp)  
+> **Tech Stack:** Flutter, Firebase  
+A real-time chat app with secure authentication and an intuitive interface.
 
 ---
 
 ## 🛠️ Technologies & Tools  
 
+### **Programming Languages**
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="50"/>&nbsp;
+</div>
+
+### **Frameworks & Libraries**
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50"/>&nbsp;
+</div>
+
+### **Tools & Platforms**
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="50"/>
 </div>
 
 ---
@@ -85,9 +95,13 @@ I am a passionate **Flutter Developer** 💙, dedicated to crafting seamless and
 
 ## 🌟 Let’s Collaborate  
 
-I’m always excited to work with creative minds and ambitious teams. Whether it’s building **Flutter applications**, contributing to open-source projects, or brainstorming new ideas, feel free to connect with me:
+I’m always excited to work with creative minds and ambitious teams! Whether you’re looking to:
+- 🚀 Build a scalable **mobile application** with Flutter
+- 💡 Brainstorm new tech solutions for your next big idea
+- 🔧 Contribute to exciting **open-source projects**
 
-📧 **[mohammedinjjar@example.com](mailto:mohammedinjar1@gmail.com)**  
+Feel free to reach out:
+📧 **[mohammedinjar1@gmail.com](mailto:mohammedinjar1@gmail.com)**  
 🌐 **[LinkedIn](https://www.linkedin.com/in/mohammedinjjar/)**  
 
 ---
