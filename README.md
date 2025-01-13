@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
 </div>
 
 <h1 align="center">Hi, I'm Mohammed Injjar 👋</h1>
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/mohammedinjjar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://wa.link/xsa9bu">
-    <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
+    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
   <a href="https://twitter.com/Mohamme52362897">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -17,7 +17,7 @@
   <a href="https://www.facebook.com/profile.php?id=100006359265107">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-</div>
+</p>
 
 ---
 
@@ -27,37 +27,47 @@
 
 ---
 
-## 👩‍💻 About Me
-I am a **Flutter Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from **Palestine - Gaza**.
+## 🚀 About Me  
 
-- 🔭 **Currently working as:** Software Engineer & Flutter Developer, specializing in building mobile applications.  
-- 🌱 **Passionate about:** Constantly improving and learning in the field of software development.  
-- ⚡ **In my free time:** Solving problems on GeeksforGeeks and reading tech articles.  
-- 📫 **How to reach me:** [![LinkedIn Badge](https://img.shields.io/badge/-Mohammed-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedinjjar/)
+I am a passionate **Flutter Developer** 💙, dedicated to crafting seamless and responsive mobile applications. From designing user-friendly interfaces to implementing scalable backend solutions, I thrive on turning ideas into reality.
+
+- 🔭 **Current Focus:** Developing robust mobile apps using Flutter for businesses and individuals.  
+- 🌱 **Lifelong Learner:** Always exploring new technologies, frameworks, and best practices.  
+- 💡 **Tech Enthusiast:** Enjoy solving coding challenges and contributing to open-source projects.  
+- 📫 **Let’s Connect:** I love collaborating with others to create impactful solutions. Reach out on [LinkedIn](https://www.linkedin.com/in/mohammedinjjar/).
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Technologies & Tools  
+
 <div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="50" height="50"/>
 </div>
 
 ---
 
-## 🔥 My Stats
+## 🔥 My GitHub Stats  
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MohammedNajjar&theme=radical&hide_border=true" alt="GitHub Streak"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedNajjar&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </div>
+
+---
+
+## 🌟 Let’s Collaborate  
+
+I’m always open to connecting with fellow developers, startups, and companies to create innovative projects. Whether you need help with a **Flutter application** or want to brainstorm tech solutions, feel free to reach out!
+
+### 📧 [mohammedinjjar@example.com](mailto:mohammedinjjar@example.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/mohammedinjjar/)
